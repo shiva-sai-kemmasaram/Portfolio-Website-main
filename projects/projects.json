@@ -1,0 +1,32 @@
+[
+  {
+    "name": "FigureOut_Stackoverflow",
+    "desc": "Fully fledged MERN app based on Knowlegde shareing. Built using ,React,Mongodb,Expressjs,Nodejs.",
+    "image": "FigureOutUI",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/shiva-sai-kemmasaram/FigureOut_Stackoverflow",
+      "code": "https://github.com/shiva-sai-kemmasaram/FigureOut_Stackoverflow"
+    }
+  },
+  {
+    "name": "Key Food_fresh",
+    "desc": "All in one  resources. Built using Html, CSS and Javascript.",
+    "image": "KeyFood_Fresh",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/shiva-sai-kemmasaram/Key-Food-fresh",
+      "code": "https://github.com/shiva-sai-kemmasaram/Key-Food-fresh"
+    }
+  },
+  {
+    "name": "Bugatii",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "Bugatti_cars",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/shiva-sai-kemmasaram/Bugatti-cars-",
+      "code": "https://github.com/shiva-sai-kemmasaram/Bugatti-cars-"
+    }
+  }
+]
